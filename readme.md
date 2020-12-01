@@ -71,10 +71,10 @@ Conditions in Chilee are exactly similar to JavaScript
 let numA = inputInt("Enter number 1: ")
 let numB = inputInt("Enter number 2: ")
 
-if (a > b){
-  print("A (" + numA + ") is bigger")
-}elseif(b > a){
-  print("B (" + numB + ") is bigger")
+if (numA > numB){
+  print("A is bigger")
+}elseif(numB > numA){
+  print("B is bigger")
 }else{
   print("A and B are equal")
 }
