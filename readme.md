@@ -32,7 +32,8 @@ Chilee has support for `for` and `while` loops
 
 #### For loops-
 
-```@ Without step in an ascending order
+```
+@ Without step in an ascending order
 for(i = 1: to 10){
   print(i)
 }
