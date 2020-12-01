@@ -1,0 +1,13 @@
+let index = 0
+let indexFinal = 0
+let names = ["Arnav", "Markus", "Sam", "Tom", "John"]
+let finalNames = []
+
+while(index < length(names)){
+    let name = names>index
+    finalNames + name
+    print(finalNames)
+    index = index + 1
+}
+
+print(finalNames)
