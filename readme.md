@@ -27,6 +27,11 @@ Comments start with an `@` symbol and end at the next line
 
 `@ This is a comment`
 
+## Variables
+Variable assignments are done using the `let` keyword
+
+`let name = "Arnav"`
+
 ## Loops
 Chilee has support for `for` and `while` loops
 
@@ -48,3 +53,12 @@ for(i = 10: to 1: step -1){
   print(i)
 }
 ```
+#### While loops-
+ ```
+ let index = 0
+ 
+ while(index < 10){
+  index = index + 1
+  print(index)
+ }
+ ```
