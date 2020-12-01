@@ -1,6 +1,6 @@
 # Chilee
 
-Chilee is a beginner friendly programming language names after (you guessed it), eSpice. 
+Chilee is a beginner friendly programming language named after (you guessed it), eSpice. Currently its only available for Windows but Linux support is coming soon
 
 ## Installation
 1. Download the project as a ZIP file
