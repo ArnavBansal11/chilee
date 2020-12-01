@@ -79,4 +79,18 @@ if (numA > numB){
   print("A and B are equal")
 }
 ```
+## Functions
+You can create single line or multi line functions
 
+#### Single Line - 
+``` function hello(name) => "Hello" + name```
+
+#### Multi Line -
+```
+function hello(name){
+  let string = "Hello" + name
+  return string
+}
+```
+
+You can call a function using `functionName(args)`
