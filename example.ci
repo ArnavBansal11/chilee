@@ -1,13 +1,10 @@
-let index = 0
-let indexFinal = 0
-let names = ["Arnav", "Markus", "Sam", "Tom", "John"]
-let finalNames = []
+let numA = inputInt("Enter number 1: ")
+let numB = inputInt("Enter number 2: ")
 
-while(index < length(names)){
-    let name = names>index
-    finalNames + name
-    print(finalNames)
-    index = index + 1
+if (a > b){
+  print("A (" + numA + ") is bigger")
+}elseif(b > a){
+  print("B (" + numB + ") is bigger")
+}else{
+  print("A and B are equal")
 }
-
-print(finalNames)
