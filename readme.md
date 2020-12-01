@@ -62,3 +62,21 @@ for(i = 10: to 1: step -1){
   print(index)
  }
  ```
+ 
+ ## Conditional Statements
+
+Conditions in Chilee are exactly similar to JavaScript
+
+```
+let numA = inputInt("Enter number 1: ")
+let numB = inputInt("Enter number 2: ")
+
+if (a > b){
+  print("A (" + numA + ") is bigger")
+}elseif(b > a){
+  print("B (" + numB + ") is bigger")
+}else{
+  print("A and B are equal")
+}
+```
+
